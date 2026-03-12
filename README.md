@@ -39,7 +39,7 @@
 
 # Проекты портфолио
 
-## 1. [Оптимизация процесса клиентской поддержки (Банк)](zargamguliyev/zargamguliyev/blob/main/banking-support-optimizations)
+## 1. [Оптимизация процесса клиентской поддержки (Банк)](banking-support-optimizations)
 
 Проект по бизнес-анализу, направленный на улучшение процесса поддержки клиентов регионального банка.
 
@@ -51,7 +51,7 @@
 
 **Инструменты:** BPMN, Miro, Draw.io
 
-[Смотреть проект →](banking-support-optimization)
+[Смотреть проект →](banking-support-optimizations)
 
 ---
 
